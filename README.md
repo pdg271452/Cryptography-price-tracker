@@ -1,5 +1,4 @@
-# Cryptography-price-tracker
-
+# Cryptocurrency Tracker App
 This is a simple app for tracking all the price and details of a crypto currencis. It is made with React js and Zustand state management library. 
 
 ## Demo
